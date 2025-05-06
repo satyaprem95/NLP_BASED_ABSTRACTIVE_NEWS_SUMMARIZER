@@ -2,8 +2,6 @@
 
 ## Problem Statement
 
-Sure! Here's the problem statement in a single line:
-
 "Automating the process of summarizing lengthy textual content to make information more accessible and digestible."
 
 The rapid growth of digital content has resulted in an overwhelming amount of textual information across various platforms. Manually summarizing lengthy documents, news articles, and reports is a time-consuming task. Therefore, there is a growing need for automated systems that can generate concise and meaningful summaries of long text, making the information easier to understand and digest. This project aims to build an automated text summarization pipeline that can generate high-quality summaries from long articles or documents, focusing on **abstractive summarization**, where the model generates new sentences rather than simply extracting parts of the original text.
